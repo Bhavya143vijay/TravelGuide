@@ -1,0 +1,26 @@
+.image {
+  width: 100%;
+  height: 20%;
+}
+
+.list-location {
+  height: 30%;
+  width: 45%;
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+  padding: 10px;
+  background-color: #ffffff;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #475569;
+}
+
+.description {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #64748b;
+}
